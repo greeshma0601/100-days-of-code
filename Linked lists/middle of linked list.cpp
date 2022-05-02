@@ -1,3 +1,9 @@
+Please See : How does Floyd’s slow and fast pointers approach work?
+https://www.geeksforgeeks.org/how-does-floyds-slow-and-fast-pointers-approach-work/
+https://www.youtube.com/watch?v=Aup0kOWoMVg 
+
+
+
 https://leetcode.com/problems/middle-of-the-linked-list/
 https://www.youtube.com/watch?v=vxVqi9Q54Dc
 /**
