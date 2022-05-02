@@ -1,7 +1,12 @@
 https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
 https://leetcode.com/problems/linked-list-cycle/submissions/
+
+
+======================================================================================================================
 How does Floyd’s slow and fast pointers approach work?
+    
 https://www.geeksforgeeks.org/how-does-floyds-slow-and-fast-pointers-approach-work/
+https://www.youtube.com/watch?v=LUm2ABqAs1w
 
 1)Brute force approach
 Hashing Approach:
