@@ -62,6 +62,8 @@ public:
 https://www.geeksforgeeks.org/rearrange-array-in-alternating-positive-negative-items-with-o1-extra-space-set-2/
 https://www.youtube.com/watch?v=zUPMACE0uBs&t=301s
 
+If we are allowed to change order of appearance, we can solve this problem in O(n) time and O(1) space.
+The idea is to process the array and shift all negative values to the end in O(n) time. After all negative values are shifted to the end, we can easily rearrange array in alternating positive & negative items. We basically swap next positive element at even position from next negative element in this step. 
 optimized
 
 TC O(N)
