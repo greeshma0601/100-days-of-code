@@ -1,5 +1,7 @@
 https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
 
+Complete implementation:
+https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/
 
 /*Please note that it's Function problem i.e.
 you need to write your solution in the form of Function(s) only.
