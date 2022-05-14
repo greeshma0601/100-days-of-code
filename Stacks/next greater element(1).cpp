@@ -27,7 +27,7 @@ Explanation: The next greater element for each value of nums1 is as follows:
 
 Method 1 (Simple) 
 Use two loops: The outer loop picks all the elements one by one. The inner loop looks for the first greater element for the element picked by the outer loop. If a greater element is found then that element is printed as next, otherwise, -1 is printed.
-
+*/
 // Simple C++ program to print
 // next greater elements in a
 // given array
@@ -36,6 +36,8 @@ using namespace std;
 
 /* prints element and NGE pair
 for all elements of arr[] of size n */
+
+/*
 void printNGE(int arr[], int n)
 {
 	int next, i, j;
