@@ -1,5 +1,9 @@
 /*
 https://practice.geeksforgeeks.org/problems/common-elements1132/1#
+Time Complexity: O(n1 + n2 + n3) 
+Space complexity: O(n1 + n2 + n3) 
+
+
 */     
 
 vector <int> commonElements (int a[], int b[], int c[], int n1, int n2, int n3)
