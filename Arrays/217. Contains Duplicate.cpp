@@ -30,3 +30,23 @@ public:
 /*Approach 2 => use set,insert element if already not found else return true */
   
   TC = O(N) SC = O(N)
+
+    class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        unordered_set<int>s;
+        int n = nums.size();
+        
+        for(int i=0;i<n;i++)
+        {
+            if(s.find(nums[i]) == s.end())
+            {
+                s.insert(nums[i]);
+            }
+            else{
+                return true;
+            }
+        }
+        return false;
+    }
+};
